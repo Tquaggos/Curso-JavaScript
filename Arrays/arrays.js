@@ -21,8 +21,8 @@
 
 
 
-let nomes =["Matheus", "Ana", "Igor", "Joao", "Alice", "Marcos"]
+// let nomes =["Matheus", "Ferraz", "Julia"]
 
-nomes.forEach((elemento) => {
-    console.log(`Bom dia ${elemento}`)
-})
+// nomes.forEach((elemento) => {
+//     console.log(`Bom dia ${elemento}`)
+// })
